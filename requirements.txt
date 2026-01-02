@@ -4,3 +4,4 @@ open_clip_torch
 pillow
 pandas
 transformers
+matplotlib
